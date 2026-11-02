@@ -161,6 +161,11 @@
                 "PKSA-dqzt-yst9-1w9y",
                 "PKSA-x678-4z45-v3d5"
             ]
+        },
+        "policy": {
+            "advisories": {
+                "block": false
+            }
         }
     },
     "minimum-stability": "dev",
